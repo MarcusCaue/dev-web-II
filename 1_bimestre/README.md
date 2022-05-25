@@ -2,6 +2,7 @@
 Projeto desenvolvido no 1º Bimestre
 
 Site para criar logos automaticamente: https://www.logaster.com/
+Site para criar Termos e Serviços e Política de privacidade: https://politicaprivacidade.com/
 
 <h2>Autores</h2>
 <ul>
