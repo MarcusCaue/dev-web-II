@@ -1,0 +1,7 @@
+tipo->corrente;agencia->5633-3;conta->98271634-1;saldo->7800;limite->3000
+tipo->corrente;agencia->2312-3;conta->12345678-8;saldo->3580;limite->1000
+tipo->poupanca;agencia->3344-1;conta->54546722-3;saldo->30000
+tipo->poupanca;agencia->9980-2;conta->32312453-4;saldo->100000
+tipo->corrente;agencia->1111-0;conta->99899899-8;saldo->5600;limite->240.56
+tipo->poupanca;agencia->1212-1;conta->77676677-6;saldo->12000
+tipo->corrente;agencia->8876-2;conta->998372312-3;saldo->10800;limite->670
